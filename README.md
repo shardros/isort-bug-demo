@@ -1,6 +1,12 @@
 # Steps to reproduce:
 
-On windows run `reproduce_bug.cmd`
+On Windows run:
+ - `pipenv install`
+ - `pipenv shell`
+ - `isort __main__.py`
+ - Look at the extra line break added
+ - `isort __main__.py`
+ - Look at the 2nd extra line break added
 
 # Details:
 
