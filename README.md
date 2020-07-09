@@ -1,3 +1,5 @@
+Produced to help investigation of [isort issue 1277](https://github.com/timothycrosley/isort/issues/1277)
+
 # Steps to reproduce:
 
 On Windows run:
